@@ -47,6 +47,9 @@ l3    nothing                                   Equilateral Triangle (base class
      4. hybrid inheritance -----> mix of previous 3 inheritance
 
      5. multiple inheritance (not in form of a class in java (only in c++))
-           we need interfaces to implement this inheritance
+           we need 'interfaces' to implement this inheritance
+                     multiple base class
+                         /       \
+                     single derive class
 
  */
